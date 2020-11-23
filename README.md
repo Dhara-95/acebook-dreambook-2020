@@ -111,7 +111,7 @@ I would like all passwords to be between 6 and 10 characters.
 
 **MVC Model**
 ----
-[MVC diagram](/dreambook_mvc.png)
+![MVC diagram](/dreambook_mvc.png)
 
 
 **Trello Board**
